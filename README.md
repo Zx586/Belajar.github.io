@@ -1,2 +1,2 @@
-<marquee><h2> Welcome To Belajar </h2></marquee>
+<h2> Welcome To Belajar..</h2>
 
